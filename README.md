@@ -1,25 +1,3 @@
-<a href="https://komarev.com/ghpvc/?username=rakhacimano">
-  <img align="right" src="https://komarev.com/ghpvc/?username=rakhacimano&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a>
-
-<!-- Intro  -->
-<h3 align="center">
-        <samp>&gt; Hey There!,
-                <b><a target="_blank" href="https://rakhacimano.github.io">Rakha Putra Pratama</a></b>
-        is Here</samp>
-</h3>
-
-
-<p align="center"> 
-  <samp>
-    <a href="https://www.google.com/search?q=Rakha+Putra+Pratama">「 Google Me 」</a>
-    <br>
-    「 an UI/UX Designer & IT Learner from <b>Malang</b> 」
-    <br>
-    <br>
-  </samp>
-</p>
-
 <p align="center">
  <a href="https://rakhacimano.github.io" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="rakhacimano" />
