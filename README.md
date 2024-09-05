@@ -2,9 +2,9 @@
 <h3 align="center">Fullstack Developer</h3>
 
 <h3 align="left">Connect with me:</h3>
-Instagram
-Linkedin
-Twitter
+- Instagram
+- Linkedin
+- Twitter
 
 <h3 align="left">Languages and Tools</h3>
-HTML
+- HTML
