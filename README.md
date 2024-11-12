@@ -3,8 +3,10 @@
 
 <h3 align="left">Connect with me:</h3>
 - Instagram
-- Linkedin
-- Twitter
+- YouTube
+- LinkedIn
 
 <h3 align="left">Languages and Tools</h3>
 - HTML
+- CSS
+- JavaScript
