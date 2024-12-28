@@ -54,8 +54,3 @@ Selamat datang di repository resmi saya! 🚀 Di sini Anda dapat menemukan proye
 | 🎥 YouTube    | [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube&style=social)](https://www.youtube.com/@saiqsyahruqadri)      |
 | 💼 LinkedIn   | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=social)](https://www.linkedin.com/in/saiq-syahru-qadri-74414824b/) |
 | ✉️ Email      | [saiqqadri78@gmail.com](mailto:saiqqadri78@gmail.com)                                                                                   |
-
----
-
-## 🎨 **Tampilan Portfolio**
-![Portfolio Screenshot](assets/img/portfolio-banner.png)
