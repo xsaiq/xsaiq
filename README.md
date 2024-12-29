@@ -8,7 +8,7 @@ Selamat datang di repository resmi saya! 🚀 Di sini Anda dapat menemukan proye
 - **Nama:** Saiq Syahru Qadri
 - **Bidang:** Teknik Informatika, Politeknik Elektronika Negeri Surabaya (PENS)
 - **Minat:** 🎮 Game Development, 🛠️ Quality Assurance, 🌐 Pengembangan Perangkat Lunak
-- **Website:** **[Saiq Syahru Qadri](https://saiq.it.student.pens.ac.id/SaiqSyahruQadri/)**
+- **Website:** [SaiqSyahruQadri](https://saiq.it.student.pens.ac.id/SaiqSyahruQadri/)
 
 ---
 
