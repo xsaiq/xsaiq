@@ -1,6 +1,6 @@
 # 🌟 Saiq Syahru Qadri 🌟
 
-Selamat datang di repository resmi saya! 🚀 Di sini Anda dapat menemukan proyek, pencapaian, dan aktivitas saya dalam dunia teknologi dan pengembangan perangkat lunak. 😊
+Selamat datang di repository resmi saya! 🚀 Di sini Anda dapat menemukan proyek, pencapaian, dan aktivitas saya dalam dunia teknologi dan pengembangan perangkat lunak. 😼
 
 ---
 
